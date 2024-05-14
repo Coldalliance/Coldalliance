@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coldalliance
-- 👀 I’m interested in Gaming, Coding, Web Development.
-- 🌱 I’m currently learning Level 3 Games
-- 📫 How to reach me via email: CharleyJ@hamsternetwork.com or you can get to me via discord! https://discord.gg/G6BwprQFWa
+- 👀 I’m interested in Gaming, Coding, and Web Development.
+- 🌱 I've studied Level 1 Games and Level 3 Diploma and Extended Diploma
+- 📫 How to reach me via email: CharleyJ@hamsternetwork.com or you can get to me via Discord! https://discord.gg/Dcgm56f89P
 
 <!---
 Coldalliance/Coldalliance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
